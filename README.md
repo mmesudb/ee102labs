@@ -8,12 +8,10 @@ Bilkent University Spring 2025 EE102 Digital Logic Design Lab Reports:
 - [Lab 6](./lab6)
 - [Lab 7](./lab7)
 
-# EE102 Term Project: Sign Language Recognition and Display System
-- [Sign Language Recognition and LCD Project](./Sign%20Language%20Recognition%20and%20Display%20System_EE102%20PROJECT)
-
-The system was built using a BASYS3 FPGA board, a glove equipped with four flex sensors and a button, voltage divider circuits, a 16x2 LCD display. No board other than the BASYS3 and no language other than VHDL was utilized.
+# EE102 Term Project:
+- [Sign Language Recognition and LCD System](./Sign%20Language%20Recognition%20and%20Display%20System_EE102%20PROJECT)
+was built using a BASYS3 FPGA board, a glove equipped with four flex sensors and a button, voltage divider circuits, a 16x2 LCD display. No board other than the BASYS3 and no language other than VHDL was utilized.
 
 [Project demonstration video](https://youtu.be/R-E0OM75p7w?si=SS-HYHOr8S8ThNDc)
 
-Additional details can be found in the Project Report included in the repository.
-- [Project Report](./MMB%20EE102%20PROJECT%20REPORT.pdf)
+Additional details can be found in the [Project Report](./MMB%20EE102%20PROJECT%20REPORT.pdf) included in the repository.
