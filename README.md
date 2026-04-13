@@ -14,4 +14,4 @@ was built using a BASYS3 FPGA board, a glove equipped with four flex sensors and
 
 [Project demonstration video](https://youtu.be/R-E0OM75p7w?si=SS-HYHOr8S8ThNDc)
 
-Additional details can be found in the [Project Report](./MMB%20EE102%20PROJECT%20REPORT.pdf) included in the repository.
+Additional details can be found in the [Project Report](./Sign%20Language%20Recognition%20and%20Display%20System_EE102%20PROJECT/MMB%20EE102%20PROJECT%20REPORT.pdf) included in the repository.
